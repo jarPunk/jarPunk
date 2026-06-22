@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jarPunk&fontSize=80" />
   
+  <h1>👋 ¡Hola! Soy Oswald Jarol Perez Condori</h1>
+  
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%8E%A8;Animation+Lover+%E2%9C%A8;Angular+%26+C%23+.NET+%F0%9F%9A%80;Building+interactive+UIs+%F0%9F%92%BB" alt="Typing Effect" />
   </p>
