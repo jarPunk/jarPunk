@@ -1,47 +1,127 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jarPunk&fontSize=80" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%8E%A8;Animation+Lover+%E2%9C%A8;Angular+%26+C%23+.NET+%F0%9F%9A%80;Building+interactive+UIs+%F0%9F%92%BB" alt="Typing Effect" />
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=jarPunk&color=blueviolet&style=flat-square" alt="Profile views"/>
+  </p>
 </div>
-
-<h1 align="center">👋 ¡Hola! Soy jarPunk</h1>
-
-<p align="center">
-  <b>Estudiante · Desarrollador Frontend · Amante de las animaciones 🎨</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jarPunk&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- 🎯 Especializado en **frontend** con pasión por las **animaciones** y la experiencia de usuario
-- 🔭 Actualmente trabajando en un sistema de gestión de bibliotecas con microservicios
-- 🌱 Aprendiendo constantemente nuevas tecnologías y patrones de diseño
-- ⚡ Disfruto creando interfaces interactivas y visualmente atractivas
+- 🎯 Especializado en **Frontend** con una gran pasión por las **animaciones** y la experiencia de usuario (UX).
+- 🔭 Actualmente enfocado en desarrollar sistemas web modernos y robustos con arquitecturas limpias y microservicios.
+- 🌱 Aprendiendo constantemente sobre optimización de rendimiento, diseño interactivo y nuevas tecnologías.
+- ⚡ Disfruto de dar vida a las interfaces y hacer que la interacción con el usuario sea fluida y agradable.
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Tecnologías y Herramientas
 
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br/>
+  
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  
+  <br/>
+  
+  <!-- Mobile & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-**Backend & Bases de datos**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-**Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 Sistema de Gestión de Biblioteca</h4>
+      <p>Arquitectura distribuida y escalable basada en microservicios para la gestión completa de bibliotecas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        🔗 Repositorios: 
+        <a href="#URL_FRONTEND">Frontend</a> · 
+        <a href="#URL_USUARIO">Usuario</a> · 
+        <a href="#URL_LIBRO">Libros</a> · 
+        <a href="#URL_PRESTAMO">Préstamos</a> · 
+        <a href="#URL_MULTAS">Multas</a> · 
+        <a href="#URL_REPORTES">Reportes</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏨 Hotel Management System</h4>
+      <p>Sistema completo de administración hotelera desarrollado para la materia de Calidad de Software.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://github.com/DoukeUCB/HotelManagement">Repositorio GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗺️ Sistema de Reporte de Desaparecidos</h4>
+      <p>Plataforma para reportar personas extraviadas y visualizar mapas interactivos de zonas riesgosas. Desplegado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://github.com/AndrePruden/SistemaDesaparecidos">Repositorio GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Calculadora de Modelos de Líneas de Espera</h4>
+      <p>Calculadora y simulador de teoría de colas (Investigación de Operaciones II).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://github.com/jarPunk/ModelosLineaEspera">Repositorio GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>📱 Gestor de Sala Médica</h4>
+      <p>Aplicación móvil para la creación de consultorios médicos, gestión de agenda de doctores y reservas para pacientes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java%2FKotlin-007ACC?style=flat-square" />
+      </p>
+      <p>
+        🔗 <a href="https://github.com/diazaldair/app-gestor">Repositorio GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,25 +138,20 @@
 
 ---
 
-### 🚀 Proyecto destacado
-
-**📚 Sistema de Gestión de Biblioteca** — Arquitectura de microservicios con Angular + C#
-
-> Repositorios del proyecto: [`Frontend`](<URL_FRONTEND>) · [`Microservicio_Usuario`](<URL_USUARIO>) · [`Microservicio_Libro`](<URL_LIBRO>) · [`Microservicio_Prestamo`](<URL_PRESTAMO>) · [`Microservicio_Multas`](<URL_MULTAS>) · [`Microservicio_Reportes`](<URL_REPORTES>)
-
----
-
 ### 📫 Contacto
 
 <p align="center">
   <a href="https://github.com/jarPunk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/oswald-perez-condori">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jar_ax@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://instagram.com/jar_punk">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
